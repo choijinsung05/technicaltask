@@ -26,7 +26,7 @@ public class StoreService {
         Member partnerMember = getPartnerMember(request.getMemberId());
         checkDuplication(request);
 
-
+        return null;
     }
 
     private Member getPartnerMember(String memberId) {
