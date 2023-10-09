@@ -1,7 +1,6 @@
 package com.example.technicaltask.member.service;
 
 import com.example.technicaltask.exception.MemberException;
-import com.example.technicaltask.member.data.dto.SignIn;
 import com.example.technicaltask.member.data.dto.SignIn.Request;
 import com.example.technicaltask.member.data.dto.SignUp;
 import com.example.technicaltask.member.data.dto.SignUp.Response;
